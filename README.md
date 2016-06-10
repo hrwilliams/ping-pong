@@ -15,16 +15,16 @@ _It can count up to the provided number that is not divisible by 3, 5, or 15._
 * _Example Output [1, 2]_
 
 _When counting it will replace all divisibles of 3 with "ping"_
-*_Example Input: 7_
-*_Example Output [1, 2, "ping", 4, 5 "ping", 7]_
+* _Example Input: 7_
+* _Example Output [1, 2, "ping", 4, 5 "ping", 7]_
 
 _When counting it will replace all divisibles of 5 with "pong"_
-*_Example Input: 11_
-*_Example Output [1, 2, "ping", 4, "pong" "ping", 7, 8, "ping", "pong", 11]_
+* _Example Input: 11_
+* _Example Output [1, 2, "ping", 4, "pong" "ping", 7, 8, "ping", "pong", 11]_
 
 _When counting it will replace all divisibles of 15 with "pingpong"_
-*_Example Input: 16_
-*_Example Output [1, 2, "ping", 4, "pong" "ping", 7, 8, "ping", "pong", 11, "ping", 13, 14, "pingpong", 16]_
+* _Example Input: 16_
+* _Example Output [1, 2, "ping", 4, "pong" "ping", 7, 8, "ping", "pong", 11, "ping", 13, 14, "pingpong", 16]_
 
 
 
